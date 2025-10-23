@@ -1,1 +1,0 @@
-a = int(print("Enter a number:"))
